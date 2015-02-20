@@ -6,6 +6,8 @@ This is a repo for a starter appliation for a Single Page MEAN Stack application
 1. Download the repository
 2. Install npm modules: `npm install`
 3. Install bower dependencies `bower install`
+3a. If you are facing issue with connecting git run
+    git config --global url."https://".insteadOf "git://"
 4. Start up the server: `node server.js`
 5. View in browser at http://localhost:8080
 
